@@ -19,7 +19,7 @@
 1. Clone the repository
 
 ```
-git clone ...
+git clone https://github.com/hx-m/qa-web-test-task
 ```
 
 2. Change the working directory
